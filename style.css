@@ -234,7 +234,7 @@ button {
 /* Configuração do Banner com a imagem das crianças */
 .banner-infantil {
     height: 450px;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url('imgs/crianca.png'); 
+    background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url('imgs/Infantil\ -\ Vozes\ que\ leem.png'); 
     background-size: cover;
     background-position: center;
     display: flex;
@@ -245,7 +245,7 @@ button {
 
 .banner-juvenil {
     height: 450px;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url('imgs/jovens.png'); 
+    background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url('imgs/Juvenil\ -\ Vozesqueleem.png'); 
     background-size: cover;
     background-position: center;
     display: flex;
